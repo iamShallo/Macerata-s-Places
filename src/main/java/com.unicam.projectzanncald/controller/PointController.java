@@ -1,4 +1,4 @@
-package controller;
+package com.unicam.projectzanncald.controller;
 
 import com.unicam.projectzanncald.Exception.PointAlreadyInException;
 import com.unicam.projectzanncald.Exception.PointNotExistException;

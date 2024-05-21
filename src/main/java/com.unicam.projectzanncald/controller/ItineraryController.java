@@ -1,4 +1,4 @@
-package controller;
+package com.unicam.projectzanncald.controller;
 
 import com.unicam.projectzanncald.Exception.ItinerariNotExistException;
 import com.unicam.projectzanncald.Exception.PointNotExistException;

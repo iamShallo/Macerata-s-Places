@@ -1,4 +1,4 @@
-package controller;
+package com.unicam.projectzanncald.controller;
 
 import com.unicam.projectzanncald.Exception.*;
 import com.unicam.projectzanncald.controller.Repository.ContestRespository;

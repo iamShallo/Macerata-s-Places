@@ -1,4 +1,4 @@
-package controller;
+package com.unicam.projectzanncald.controller;
 
 import com.unicam.projectzanncald.Exception.UtenteAlreadyInException;
 import com.unicam.projectzanncald.Exception.UtenteBadTypeException;
