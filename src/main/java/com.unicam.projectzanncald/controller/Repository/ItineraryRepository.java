@@ -1,4 +1,4 @@
-package Repository;
+package com.unicam.projectzanncald.controller.Repository;
 
 import com.unicam.projectzanncald.model.content.Itinerary;
 import org.springframework.data.jpa.repository.JpaRepository;
