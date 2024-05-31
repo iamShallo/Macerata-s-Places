@@ -1,6 +1,6 @@
 package punti;
 
-import com.unicam.idsproject2324.model.content.Point;
+import com.unicam.projectzanncald.model.content.Point;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 
