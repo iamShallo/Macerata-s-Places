@@ -1,8 +1,8 @@
-package com.unica.projectzanncald.PrototypeDesignPatternTest;
+package com.unicam.projectzanncald.PrototypeDesignPatternTest;
 
-import com.unicam.idsproject2324.model.content.Point;
-import com.unicam.idsproject2324.model.punti.Monumenti;
-import com.unicam.idsproject2324.model.punti.Ristorante;
+import com.unicam.projectzanncald.model.content.Point;
+import com.unicam.projectzanncald.model.punti.Monumenti;
+import com.unicam.projectzanncald.model.punti.Ristorante;
 import org.junit.Test;
 
 import java.util.Date;
