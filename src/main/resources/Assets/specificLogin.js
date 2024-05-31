@@ -16,7 +16,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
             window.location.href = '/turistaAutorizzato/turistaAutorizzato.html';
             break;
         case email.includes('gestorepiattaforma'):
-            window.location.href = '/Utenti/gestorePiattaforma/gestorePiattaforma.html';
+            window.location.href = '../../java/model/gestorePiattaforma/gestorePiattaforma.html';
             break;
         default:
             alert('Effettua il login');
