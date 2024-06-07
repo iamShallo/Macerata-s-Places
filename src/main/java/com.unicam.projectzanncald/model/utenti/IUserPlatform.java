@@ -1,4 +1,4 @@
-package model.utenti;
+package com.unicam.projectzanncald.model.utenti;
 
 import jakarta.persistence.MappedSuperclass;
 

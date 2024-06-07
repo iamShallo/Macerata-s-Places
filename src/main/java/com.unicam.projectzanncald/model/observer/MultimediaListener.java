@@ -2,7 +2,7 @@
  * The MultimediaListener class represents a subject in the Observer design pattern,
  * responsible for managing a list of observers and notifying them when a new multimedia post is published.
  */
-package model.observer;
+package com.unicam.projectzanncald.model.observer;
 
 import java.util.ArrayList;
 import java.util.List;

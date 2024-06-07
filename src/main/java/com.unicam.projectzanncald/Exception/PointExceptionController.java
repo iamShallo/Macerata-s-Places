@@ -1,4 +1,4 @@
-package Exception;
+package com.unicam.projectzanncald.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

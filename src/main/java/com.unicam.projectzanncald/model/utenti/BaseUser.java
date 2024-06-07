@@ -1,4 +1,4 @@
-package model.utenti;
+package com.unicam.projectzanncald.model.utenti;
 
 import com.unicam.projectzanncald.model.observer.Observer;
 import jakarta.persistence.*;

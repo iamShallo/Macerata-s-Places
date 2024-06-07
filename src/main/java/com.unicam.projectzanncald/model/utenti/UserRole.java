@@ -1,4 +1,4 @@
-package model.utenti;
+package com.unicam.projectzanncald.model.utenti;
 /**
  * Enumerazione che rappresenta diversi ruoli utente nel sistema.
  * Ciascun ruolo definisce un determinato livello di accesso o autorizzazioni.

@@ -1,4 +1,4 @@
-package punti;
+package com.unicam.projectzanncald.model.punti;
 
 import com.unicam.projectzanncald.model.content.Point;
 import jakarta.persistence.Column;

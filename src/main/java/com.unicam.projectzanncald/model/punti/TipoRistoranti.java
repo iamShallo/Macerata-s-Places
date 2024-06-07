@@ -1,4 +1,4 @@
-package punti;
+package com.unicam.projectzanncald.model.punti;
 
 public enum TipoRistoranti {
     FastFood,
