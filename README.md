@@ -2,7 +2,7 @@
 
 Il progetto "Macerata's Places" è un'applicazione web che si concentra sulla città di Macerata. 
 Gli utenti possono esplorare una mappa interattiva della città e aggiungere o visualizzare punti di interesse come ristoranti, monumenti e piazze. 
-Possono anche creare itinerari e contest, che vengono organizzati consentendo agli utenti di condividere e partecipare attraverso l'invio di foto, con ruoli specifici.
+Possono anche creare contest, che vengono organizzati consentendo agli utenti di condividere e partecipare attraverso l'invio di foto, con ruoli specifici.
 
 Per realizzare questo progetto, sono state utilizzate le seguenti tecnologie:
 
